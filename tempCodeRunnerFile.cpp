@@ -1,4 +1,7 @@
-for(auto it:indegree)
+cout << "Stack= ";
+//     while(!q.empty())
 // {
-//     //cout << it << " ";
+//         cout << q.top() << " ";
+//         q.pop();
 // }
+// cout << endl;
